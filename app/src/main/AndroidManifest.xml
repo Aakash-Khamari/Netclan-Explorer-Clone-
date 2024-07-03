@@ -23,19 +23,7 @@
 
         </activity>
         <activity
-            android:name=".connections"
-            android:exported="false" />
-        <activity
-            android:name=".BusinessFragment"
-            android:exported="false" />
-        <activity
             android:name=".Refine"
-            android:exported="false" />
-        <activity
-            android:name=".ServicesFragment"
-            android:exported="false" />
-        <activity
-            android:name=".PersonalFragment"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

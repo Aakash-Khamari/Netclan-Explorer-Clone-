@@ -18,8 +18,7 @@ class connections : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.activity_connections, container, false)
+        return inflater.inflate(R.layout.fragment_connections, container, false)
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
@@ -28,15 +27,12 @@ class connections : Fragment() {
         val myTextView: TextView = view.findViewById(R.id.myTextView)
         val sentence = "Your connections list is EMPTY"
 
-        // Split the sentence to get the last word
         val words = sentence.split(" ")
         val lastWord = words.last()
         val otherWords = words.dropLast(1).joinToString(" ")
 
-        // Create a SpannableString
         val spannable = SpannableString("$otherWords $lastWord")
 
-        // Set the color for the other words
         spannable.setSpan(
             ForegroundColorSpan(ContextCompat.getColor(requireContext(), R.color.text)),
             0,

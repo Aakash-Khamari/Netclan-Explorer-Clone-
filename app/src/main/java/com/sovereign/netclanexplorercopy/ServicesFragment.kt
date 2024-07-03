@@ -9,7 +9,7 @@ import android.widget.Button
 import androidx.fragment.app.Fragment
 import com.google.android.material.button.MaterialButton
 
-class ServicesFragment : Fragment(R.layout.activity_services_fragment) {
+class ServicesFragment : Fragment(R.layout.fragment_services) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
