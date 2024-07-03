@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Netclan Explorer</string>
+    <string name="heading_name">Howdy Aakash Khamari !!</string>
+    <string name="location">Balangir</string>
+    <string name="refine">Refine</string>
+    <string name="personal_tab">Personal</string>
+    <string name="services_tab">Services</string>
+    <string name="businesses_tab">Businesses</string>
+    <string name="search_bar_text">Search...</string>
+    <string name="avaibility">Select Your Avaibility</string>
+    <string name="status">Add Your Status</string>
+    <string name="status_box">Hi, community! I am open to new connections \"😊\"</string>
+    <string name="distance">Select Hyper Local Distance</string>
+    <string name="_50">50</string>
+    <string name="min_distance">1 Km</string>
+    <string name="max_distance">100 Km</string>
+    <string name="purpose">Select Purpose</string>
+    <string name="coffee">Coffee</string>
+    <string name="business">Business</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="friendship">Friendship</string>
+    <string name="movies">Movies</string>
+    <string name="dinning">Dinning</string>
+    <string name="dating">Dating</string>
+    <string name="matrimony">Matrimony</string>
+    <string name="access_Bar_explore">Explore</string>
+    <string name="new_invitations">New invitations</string>
+    <string name="all_invitations">All invitations</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chats">Chats</string>
+    <string name="calls">Calls</string>
+    <string name="chat_text">Not Included in Assignment!!</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="all">All</string>
+    <string name="my_groups">My Groups</string>
+    <string name="events">Events</string>
+    <string name="connections">Connections</string>
+    <string name="chat">Chat</string>
+    <string name="contacts">Contacts</string>
+    <string name="groups">Groups</string>
+    <string name="increase_radius">INCREASE RADIUS</string>
+</resources>
